@@ -1,0 +1,19 @@
+marrom
+preto
+laranja
+
+
+cat > frutas.txt
+morango
+laranja
+banana
+ls
+
+ls
+clear
+ clear
+clear 
+~ 
+cat 
+ [C clear 
+ls
